@@ -2,5 +2,8 @@
 
 steps 
 
-npm install
-npm index
+step 1 ---    npm install
+
+
+
+step 2 ----- npm index
